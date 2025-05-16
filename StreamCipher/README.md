@@ -1,4 +1,4 @@
-# Stream Cipher Playground
+# Stream Cipher 
 
 This directory contains implementations of stream ciphers and pseudo-random number generators in Java, developed as part of a university assignment. The project involves building a simple stream cipher, designing a custom PRNG, and implementing the RC4 algorithm from scratch.
 
