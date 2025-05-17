@@ -19,8 +19,7 @@ The `openssl dgst` tool was used as follows:
 openssl dgst -md5 file.txt
 openssl dgst -sha1 file.txt
 openssl dgst -sha256 file.txt
-
----
+```
 
 ## Observations
 
@@ -38,7 +37,7 @@ Keyed hashes (HMACs) were generated using the `-hmac` option of `openssl dgst`, 
 openssl dgst -md5 -hmac "secret" file.txt
 openssl dgst -sha1 -hmac "secret" file.txt
 openssl dgst -sha256 -hmac "secret" file.txt
-
+```
 ## Task 3: Randomness of One-Way Hash Functions
 
 To examine the avalanche effect of cryptographic hash functions:
