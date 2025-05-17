@@ -20,11 +20,15 @@ openssl dgst -md5 file.txt
 openssl dgst -sha1 file.txt
 openssl dgst -sha256 file.txt
 
+---
+
 ## Observations
 
 The output lengths differ between algorithms: MD5 produces 128-bit hashes, SHA1 produces 160-bit, and SHA256 produces 256-bit.
 All three digests differ completely in content, even though they were computed over the same input.
 SHA256 is significantly more resistant to collisions due to its longer hash length and stronger design.
+
+---
 
 ## Task 2: Keyed Hash and HMAC
 
@@ -44,7 +48,7 @@ To examine the avalanche effect of cryptographic hash functions:
 3.  A new hash value H2 was computed for the modified file.
 4.  A comparison was performed between H1 and H2.
 
-**Observations**
+## Observations
 
 Only a single bit change in the input file led to vastly different hash outputs.
 A short program was written to count the number of identical bits between H1 and H2.
@@ -63,7 +67,7 @@ To explore weak collision resistance:
     * Secure IV1013
     * No way
 
-**Observations**
+## Observations
 
 The number of trials needed to find a collision varied across inputs.
 On average, collisions were found after approximately $2^{12}$ to $2^{13}$ attempts.
