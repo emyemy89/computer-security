@@ -1,1 +1,16 @@
-
+<Submission>
+  <!--student-->
+  <Course>
+    <ID>53319</ID>
+  </Course>
+  <Date>Thu Apr 24 15:13:52 2025</Date>
+  <Student>
+    <Mail>emapar@kth.se</Mail>
+    <Name>Emanuel-Alexandru Paraschiv</Name>
+    <ID>162220</ID>
+  </Student>
+  <Assignment>
+    <ID>307558</ID>
+    <Name>Password Cracker Assignment</Name>
+  </Assignment>
+</Submission>
