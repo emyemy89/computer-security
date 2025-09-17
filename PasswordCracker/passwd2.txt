@@ -1,1 +1,20 @@
-
+emile:4PK7ByRyHLQRw:501:501:Emile J. Keck:/home/emile:/bin/zsh
+emily:vuq/5saAGcOfo:502:502:Emily Upjohn:/home/emily:/bin/bash
+geoffrey:3lk57FnTWfAko:503:503:Geoffrey T. Spaulding:/home/geoffrey:/bin/bash
+emmanuel:ZDpG1EB0uuSJQ:504:504:Emmanuel Ravelli:/home/emmanuel:/bin/bash
+antonio:eRdpd/2p2f6kI:505:505:Antonio Pirelli:/home/antonio:/bin/zsh
+rosa:I/58HY17Q4kmA:506:506:Rosa Castaldi:/home/rosa:/bin/bash
+hugo:Ur/ujG1gyh2f2:507:507:Hugo Z. Hackenbush:/home/hugo:/bin/zsh
+quentin:CHB2zbqax4NKw:508:508:S. Quentin Quale:/home/quentin:/bin/ksh
+benjamin:W8lm.kiwK1Pe6:509:509:Benjamin Franklin Linn:/home/benjamin:/bin/bash
+harry:uOkNSqzurIS3I:510:510:Harry Binelli:/home/harry:/bin/bash
+george:2z96HwwhAEDOk:511:511:George Schmidlap:/home/george:/bin/bash
+peter:7M2i64RJVdCys:512:512:Peter Minuit:/home/peter:/bin/bash
+otis:XaYxKAD2mL96E:513:513:Otis B. Driftwood:/home/otis:/bin/bash
+rusty:/BQ3aYk9gMyCo:514:514:Rusty Panello:/home/rusty:/bin/bash
+joe:YpzuCMRwWbiFk:515:515:Joe Panello:/home/joe:/bin/ksh
+frank:1E.68I7rN1xW2:516:516:Frank Wagstaff:/home/frank:/bin/bash
+bob:AZE9e1mWZ0aiE:517:517:Bob Roland:/home/bob:/bin/bash
+suzanna:UhtZSPGRfewpA:518:518:Suzanna Dukesbury:/home/suzanna:/bin/csh
+ronald:QbXA2Vbxy7clI:519:519:Ronald Kornblow:/home/ronald:/bin/bash
+quincy:vFDwxbhfjQy2o:520:520:Quincy Adams Wagstaff:/home/quincy:/bin/zsh
