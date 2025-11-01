@@ -1,4 +1,4 @@
-#Challenge for hidden encryption assignment
+# Challenge for hidden encryption assignment
 
 This challenge consists of the following files:
 
